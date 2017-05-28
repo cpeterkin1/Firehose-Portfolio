@@ -1,0 +1,22 @@
+body {
+	/*background: url('Last to Leave the Ice.jpg') no-repeat center center fixed;*/
+	background: url('Outdoor Pond Hockey.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	color: #0B037F;
+	font-size: 50px;
+}
+
+h2 {
+	color: #0B038F;
+	font-size: 18px;
+}
+
+.bio {
+	color: #0B039F;
+}
